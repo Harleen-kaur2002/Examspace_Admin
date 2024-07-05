@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Material Dashboard](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard&via=CreativeTim&text=Material%20Dashboard%20by%20Creative%20Tim&hashtags=material%2Cadmin%2Cdashbaord%2Ccreativetim)
 
 
@@ -172,3 +173,6 @@ Facebook: <https://www.facebook.com/CreativeTim>
 Dribbble: <https://dribbble.com/creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial>
+=======
+# Examspace_Admin
+>>>>>>> 080b688fd43158eed553a2336c2b7e4d2a5a6a5d
